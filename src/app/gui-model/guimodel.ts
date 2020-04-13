@@ -3,7 +3,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Path Example App",
+            "title": "Path Example App1",
             "formList": [
                 {
                     "id": "PersonForm",
@@ -27,7 +27,7 @@ export class GuiModel {
                         {
                             "id":   "company",
                             "type": "autocomplete",
-                            "name": "Company",
+                            "name": "Company1",
                             "wordSearchEnabled": true,
                             "defaultKey": "companyKey",
                             "form": "CompanyForm",
