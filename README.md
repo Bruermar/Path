@@ -15,5 +15,5 @@ Live example on Heroku Free (please wait for wakeup): https://path-example.herok
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://console.clever-cloud.com/users/me/applications/new?template=https://github.com/Bruermar/Path.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://console.clever-cloud.com/applications/new?template=https://github.com/Bruermar/Path.git)
 
