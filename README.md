@@ -6,3 +6,8 @@ This is an example application using <a href="https://github.com/innovad/path">P
 
 ## Live Example
 Live example on Heroku Free (please wait for wakeup): https://path-example.herokuapp.com/
+
+
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bruermar/Path.git)
