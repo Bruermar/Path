@@ -28,6 +28,7 @@
   },
   "scripts": {
     "build": "tsc --project server/tsconfig.json && ng build",
+    "install": "npm run build",
     "start": "node server/server.js",
     "test": "ng test",
     "lint": "tslint --project .",
