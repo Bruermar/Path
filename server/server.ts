@@ -80,8 +80,9 @@ TestData.init();
 // set the home page route
 app.get("/", function (req, res) {
 
-    // ejs render automatically looks in the views folder
-    res.render("../index.html");
+  // ejs render automatically looks in the views folder¨
+  //   express.static("../index.html");
+  res.sendFile("../index.html");
 });
 
 app.listen(port, function () {
