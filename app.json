@@ -1,0 +1,7 @@
+{
+  "name": "Path-Framework",
+  "description": "A Node.js app",
+  "repository": "https://github.com/heroku/button-sample",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
