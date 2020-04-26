@@ -10,7 +10,7 @@ Live example on Heroku Free (please wait for wakeup): https://path-example.herok
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bruermar/Path.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bruermar/Path/Package.json)
 
 
 
